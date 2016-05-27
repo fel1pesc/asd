@@ -116,3 +116,6 @@ while True:
     
     else:
         menu
+
+
+#JKDAOPISJDOSIADOAISJHDAIOS
